@@ -1,0 +1,5 @@
+{
+  "name": "Pirate's Cove Dashboard",
+  "description": "A swashbucklin' dashboard for managin' yer treasures on the high seas of Google Cloud Run.",
+  "requestFramePermissions": []
+}
